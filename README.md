@@ -1,5 +1,3 @@
-## **README.md Descontraído para o Seu Projeto de Receitas**
-
 ### ‍ Bora Cozinhar com Código! 
 
 **O que é esse projeto?**
